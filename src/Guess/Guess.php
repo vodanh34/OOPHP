@@ -8,7 +8,7 @@ namespace Hile14\Guess;
 class Guess
 {
     /**
-    * @var int $number The current secret number. 
+    * @var int $number The current secret number.
     * @var int $tries Number of tries a guess has been made.
     * @var bool $winner A boolean set to FALSE as default.
     */

@@ -24,7 +24,7 @@ namespace Anax\View;
     </div>
 </div>
 
-<?php 
+<?php
 if (isset($_SESSION["message"])) {
     echo $_SESSION["message"];
 }

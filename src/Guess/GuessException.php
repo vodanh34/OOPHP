@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 namespace Hile14\Guess;
 
@@ -7,7 +7,7 @@ namespace Hile14\Guess;
 */
 class GuessException extends \Exception
 {
-    public function __toString() 
+    public function __toString()
     {
         return __CLASS__ . ": {$this->message}\n";
     }

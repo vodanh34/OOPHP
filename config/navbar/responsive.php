@@ -64,5 +64,10 @@ return [
             "url" => "guess-game",
             "title" => "Guess My Number",
         ],
+        [
+            "text" => "Dice Game",
+            "url" => "dice-game",
+            "title" => "Diceroll 100",
+        ],
     ],
 ];
